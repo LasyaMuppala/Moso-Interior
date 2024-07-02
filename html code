@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moso Interior</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <span class="yellow">Moso</span> <span class="red">Inter</span><span class="green">ior</span>
+            </div>
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle" class="menu-icon">&#9776;</label>
+            <nav>
+                <ul class="menu">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">Reviews</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="image-container">
+        <img src="C:\Users\Dell\Downloads\WhatsApp Image 2024-06-21 at 14.57.31.jpeg"  alt="Interior Design">
+        <div class="text-overlay">
+            <p class="welcome-text">Welcome to Moso Interior &#127968;</p>
+            <h1 class="main-text">Decorate a beautiful interior<br> for your space</h1>
+        </div>
+        <div class="search-wrapper">
+            <div class="search-container">
+                <input type="text" placeholder="Products">
+                <input type="text" placeholder="Price">
+                <button>Search</button>
+            </div>
+        </div>
+    </div>
+    <div class="main-container">
+        <div class="text-content">
+            <article>
+                <p class="story-title"><b>Our Story</b></p>
+                <h1><span class="intro-grey">Introducing</span> <span class="intro-black">Moso</span></h1>
+                <h2 class="subtitle"> Since 1986, We crafted interior<br>
+                    products for better spaces</h2>
+                <p class="description">Moso Interior is a free Bootstrap 5 HTML CSS template for your website. Tooplate is one of the best websites to download 100% free HTML Templates for web designers and developers around the world. Thank you for visiting.</p>
+            </article>
+        </div>
+        <div class="images-container">
+            <img src="C:\Users\Dell\Downloads\WhatsApp Image 2024-06-21 at 14.57.05.jpeg" class="image1">
+            <img src="C:\Users\Dell\Downloads\WhatsApp Image 2024-06-21 at 14.57.13.jpeg" class="image2">
+        </div>
+    </div>
+</body>
+</html>
